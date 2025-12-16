@@ -39,3 +39,22 @@ Ref 2: EDA Visualizations
 Plots such as heatmaps, histograms, and scatter plots were used to analyze feature relationships and their impact on house prices.
 
 ![EDA Heatmap](images/EDA_heatmap.png)
+
+3. Data Preprocessing
+
+The dataset was cleaned and prepared for modeling by handling missing values, encoding categorical variables, and selecting relevant features This step ensured the data was structured and suitable for machine learning algorithms.
+
+4. Train-Test Split
+
+The processed dataset was split into training and testing sets to evaluate model performance on unseen data. The split helped prevent overfitting and ensured reliable model evaluation.
+
+5. Model Training
+
+A Random Forest Regressor was trained on the training dataset to learn patterns and relationships between features and house prices. The ensemble approach of Random Forest helped improve prediction accuracy and robustness.
+
+6. Prediction and Evaluation
+
+The trained model was used to predict house prices on the test dataset, and performance was evaluated using metrics such as MAE, MSE, RMSE, and R² score.
+These metrics provided insight into the accuracy and reliability of the prediction model.
+
+![Prediction Result](images/Prediction.png)
