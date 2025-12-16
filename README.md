@@ -21,7 +21,5 @@ The House Price Prediction project aimed to analyze and model real-world housing
 - **Scikit-learn** for model building, training, prediction, and evaluation.
 - **Jupyter Notebook** for development and experimentation.
 
-## Code
 
-###
 
