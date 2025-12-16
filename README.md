@@ -36,7 +36,7 @@ This step involved checking the first few rows, data types, and basic statistics
 
 EDA was conducted to identify patterns, trends, correlations, and outliers within the dataset using visualizations and statistical summaries.
 
-Ref 2: EDA Visualizations
+*Ref 2: EDA Visualizations*
 
 Plots such as heatmaps, histograms, and scatter plots were used to analyze feature relationships and their impact on house prices.
 
@@ -59,6 +59,6 @@ A Random Forest Regressor was trained on the training dataset to learn patterns 
 The trained model was used to predict house prices on the test dataset, and performance was evaluated using metrics such as MAE, MSE, RMSE, and R² score.
 These metrics provided insight into the accuracy and reliability of the prediction model.
 
-Ref 2: Prediction Result
+*Ref 2: Prediction Result*
 
 ![Prediction Result](Images/prediction.png)
