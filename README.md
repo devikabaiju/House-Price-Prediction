@@ -21,5 +21,13 @@ The House Price Prediction project aimed to analyze and model real-world housing
 - **Scikit-learn** for model building, training, prediction, and evaluation.
 - **Jupyter Notebook** for development and experimentation.
 
+## Steps
 
+### 1. 1. Data Collection and Loading
+The housing dataset was loaded using Pandas for analysis and modeling. Initial inspection was performed to understand the structure, size, and attributes of the data.
+
+*Ref 1: Dataset Preview*
+This step involved checking the first few rows, data types, and basic statistics to gain an overview of the dataset.
+
+![Dataset Preview](images/data_preview.png)
 
