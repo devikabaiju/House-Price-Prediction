@@ -31,3 +31,11 @@ This step involved checking the first few rows, data types, and basic statistics
 
 ![Dataset Preview](images/data_preview.png)
 
+2. Exploratory Data Analysis (EDA)
+
+EDA was conducted to identify patterns, trends, correlations, and outliers within the dataset using visualizations and statistical summaries.
+
+Ref 2: EDA Visualizations
+Plots such as heatmaps, histograms, and scatter plots were used to analyze feature relationships and their impact on house prices.
+
+![EDA Heatmap](images/EDA_heatmap.png)
