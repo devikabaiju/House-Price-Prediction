@@ -29,7 +29,7 @@ The housing dataset was loaded using Pandas for analysis and modeling. Initial i
 *Ref 1: Dataset Preview*
 This step involved checking the first few rows, data types, and basic statistics to gain an overview of the dataset.
 
-![Dataset Preview](images/data_preview.png)
+![Dataset Preview](Images/data_preview.png)
 
 2. Exploratory Data Analysis (EDA)
 
@@ -38,7 +38,7 @@ EDA was conducted to identify patterns, trends, correlations, and outliers withi
 Ref 2: EDA Visualizations
 Plots such as heatmaps, histograms, and scatter plots were used to analyze feature relationships and their impact on house prices.
 
-![EDA Heatmap](images/EDA_heatmap.png)
+![EDA Heatmap](Images/EDA_heatmap.png)
 
 3. Data Preprocessing
 
@@ -57,4 +57,4 @@ A Random Forest Regressor was trained on the training dataset to learn patterns 
 The trained model was used to predict house prices on the test dataset, and performance was evaluated using metrics such as MAE, MSE, RMSE, and R² score.
 These metrics provided insight into the accuracy and reliability of the prediction model.
 
-![Prediction Result](images/Prediction.png)
+![Prediction Result](Images/Prediction.png)
