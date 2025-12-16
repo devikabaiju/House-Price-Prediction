@@ -23,38 +23,37 @@ The House Price Prediction project aimed to analyze and model real-world housing
 
 ## Steps
 
-### 1. 1. Data Collection and Loading
+### 1. Data Collection and Loading
+
 The housing dataset was loaded using Pandas for analysis and modeling. Initial inspection was performed to understand the structure, size, and attributes of the data.
 
 *Ref 1: Dataset Preview*
-
 This step involved checking the first few rows, data types, and basic statistics to gain an overview of the dataset.
 
 ![Dataset Preview](Images/data_preview.png)
 
-2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 
 EDA was conducted to identify patterns, trends, correlations, and outliers within the dataset using visualizations and statistical summaries.
 
 *Ref 2: EDA Visualizations*
-
 Plots such as heatmaps, histograms, and scatter plots were used to analyze feature relationships and their impact on house prices.
 
 ![EDA Heatmap](Images/EDA_heatmap.png)
 
-3. Data Preprocessing
+### 3. Data Preprocessing
 
 The dataset was cleaned and prepared for modeling by handling missing values, encoding categorical variables, and selecting relevant features This step ensured the data was structured and suitable for machine learning algorithms.
 
-4. Train-Test Split
+### 4. Train-Test Split
 
 The processed dataset was split into training and testing sets to evaluate model performance on unseen data. The split helped prevent overfitting and ensured reliable model evaluation.
 
-5. Model Training
+### 5. Model Training
 
 A Random Forest Regressor was trained on the training dataset to learn patterns and relationships between features and house prices. The ensemble approach of Random Forest helped improve prediction accuracy and robustness.
 
-6. Prediction and Evaluation
+### 6. Prediction and Evaluation
 
 The trained model was used to predict house prices on the test dataset, and performance was evaluated using metrics such as MAE, MSE, RMSE, and R² score.
 These metrics provided insight into the accuracy and reliability of the prediction model.
