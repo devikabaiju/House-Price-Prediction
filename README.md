@@ -60,6 +60,6 @@ A Random Forest Regressor was trained on the training dataset to learn patterns 
 The trained model was used to predict house prices on the test dataset, and performance was evaluated using metrics such as MAE, MSE, RMSE, and R² score.
 These metrics provided insight into the accuracy and reliability of the prediction model.
 
-*Ref 2: Prediction Result*
+*Ref 3: Prediction Result*
 
 ![Prediction Result](Images/prediction.png)
